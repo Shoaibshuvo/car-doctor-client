@@ -1,0 +1,84 @@
+[
+      {
+        "id": 1,
+        "name": "John Doe",
+        "photo": "https://i.ibb.co/rxNY5QW/01.jpg",
+        "profession": "Software Engineer",
+        "review": "Great service! The mechanics were knowledgeable and fixed my car quickly. Highly recommended!",
+        "ratings": 4.8
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "photo": "https://i.ibb.co/8MvYx6S/02.jpg",
+        "profession": "Graphic Designer",
+        "review": "I had a fantastic experience with this auto repair shop. They diagnosed and repaired the issue with my car efficiently. Thumbs up!",
+        "ratings": 4.9
+      },
+      {
+        "id": 3,
+        "name": "David Johnson",
+        "photo": "https://i.ibb.co/xHTDB5p/03.jpg",
+        "profession": "Marketing Specialist",
+        "review": "The mechanics at this car repair center are top-notch. They went above and beyond to fix the problem with my vehicle. Very satisfied!",
+        "ratings": 4.7
+      },
+      {
+        "id": 4,
+        "name": "Charles Taylor",
+        "photo": "https://i.ibb.co/dJWzYSr/04.jpg",
+        "profession": "Accountant",
+        "review": "Excellent workmanship! The mechanics did a thorough job fixing my car, and it's running smoothly now. Great service overall!",
+        "ratings": 4.6
+      },
+      {
+        "id": 5,
+        "name": "Michael Wilson",
+        "photo": "https://i.ibb.co/nzyHG1N/05.jpg",
+        "profession": "Sales Manager",
+        "review": "I am extremely impressed with the quality of service I received. The mechanics were friendly, professional, and fixed my car perfectly!",
+        "ratings": 4.8
+      },
+      {
+        "id": 6,
+        "name": "Thomas Anderson",
+        "photo": "https://i.ibb.co/cL8xJ1T/06.jpg",
+        "profession": "UX Designer",
+        "review": "This car repair shop is my go-to place whenever I need any repairs. They consistently provide excellent service and fair prices. Highly recommended!",
+        "ratings": 4.9
+      },
+      {
+        "id": 7,
+        "name": "Daniel Martinez",
+        "photo": "https://i.ibb.co/D5yb1yK/07.jpg",
+        "profession": "Financial Analyst",
+        "review": "I was amazed at how quickly they fixed my car. The mechanics knew exactly what they were doing and resolved the issue in no time. Great job!",
+        "ratings": 4.7
+      },
+      {
+        "id": 8,
+        "name": "Olivia Davis",
+        "photo": "https://i.ibb.co/HrKLMZ6/08.jpg",
+        "profession": "Project Manager",
+        "review": "The team at this auto repair center is exceptional. They provided prompt and efficient service, and my car is working perfectly now. Highly satisfied!",
+        "ratings": 4.6
+      },
+      {
+        "id": 9,
+        "name": "William Johnson",
+        "photo": "https://i.ibb.co/xg3G0nF/09.jpg",
+        "profession": "Data Scientist",
+        "review": "I had a complicated problem with my car, but the mechanics at this repair shop were able to diagnose and fix it. I'm grateful for their expertise!",
+        "ratings": 4.9
+      },
+      {
+        "id": 10,
+        "name": "Daniel Martinez",
+        "photo": "https://i.ibb.co/VWHt6Nc/10.jpg",
+        "profession": "Marketing Manager",
+        "review": "I cannot thank the mechanics enough for the outstanding job they did on my car. The repairs were done with great attention to detail. I highly recommend them!",
+        "ratings": 4.8
+      }
+    ]
+  
+  
