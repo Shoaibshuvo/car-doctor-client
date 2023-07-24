@@ -1,8 +1,9 @@
 import React from "react";
 import { FaArrowRightLong } from "react-icons/fa6";
+import { Link } from "react-router-dom";
 
 const ServiceCard = ({ service }) => {
-  const { title, img, price } = service;
+  const { _id, title, img, price } = service;
   return (
     <>
       <div className="card w-96 bg-base-100 shadow-xl">
@@ -18,9 +19,11 @@ const ServiceCard = ({ service }) => {
               </p>
             </div>
             <div>
+              <Link to={`/book/${_id}`}>
               <button className="btn btn-circle text-[#FF3811] hover:bg-[#FF3811] border-0 btn-outline">
                 <FaArrowRightLong></FaArrowRightLong>
               </button>
+              </Link>
             </div>
           </div>
         </div>

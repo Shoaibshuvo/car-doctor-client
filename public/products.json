@@ -1,47 +1,44 @@
-
-     [
-      {
-        "id": 1,
-        "photo": "https://i.ibb.co/q7bLQKr/1.png",
-        "name": "ABS Brake",
-        "price": 29.99,
-        "ratings": 4.5
-      },
-      { 
-        "id": 2,
-        "photo": "https://i.ibb.co/0YwJd0T/2.png",
-        "name": "Cools Led Light",
-        "price": 49.99,
-        "ratings": 3.8
-      },
-      { 
-        "id": 3,
-        "photo": "https://i.ibb.co/fMShxFV/3.png",
-        "name": "Car Air Filter",
-        "price": 49.99,
-        "ratings": 3.8
-      },
-      { 
-        "id": 4,
-        "photo": "https://i.ibb.co/mNGjvRs/4.png",
-        "name": "Cools Battery",
-        "price": 49.99,
-        "ratings": 3.8
-      },
-      { 
-        "id": 5,
-        "photo": "https://i.ibb.co/bm9swsL/5.png",
-        "name": "Tyre",
-        "price": 49.99,
-        "ratings": 3.8
-      },
-      {
-        "id": 6,
-        "photo": "https://i.ibb.co/hXQ05qf/6.png",
-        "name": "Car Engine Plug",
-        "price": 19.99,
-        "ratings": 4.2
-      }
-    ]
-  
-  
+[
+  {
+    "id": 1,
+    "photo": "https://i.ibb.co/q7bLQKr/1.png",
+    "name": "ABS Brake",
+    "price": 29.99,
+    "ratings": 4.5
+  },
+  {
+    "id": 2,
+    "photo": "https://i.ibb.co/0YwJd0T/2.png",
+    "name": "Cools Led Light",
+    "price": 49.99,
+    "ratings": 3.8
+  },
+  {
+    "id": 3,
+    "photo": "https://i.ibb.co/fMShxFV/3.png",
+    "name": "Car Air Filter",
+    "price": 49.99,
+    "ratings": 3.8
+  },
+  {
+    "id": 4,
+    "photo": "https://i.ibb.co/mNGjvRs/4.png",
+    "name": "Cools Battery",
+    "price": 49.99,
+    "ratings": 3.8
+  },
+  {
+    "id": 5,
+    "photo": "https://i.ibb.co/bm9swsL/5.png",
+    "name": "Tyre",
+    "price": 49.99,
+    "ratings": 3.8
+  },
+  {
+    "id": 6,
+    "photo": "https://i.ibb.co/hXQ05qf/6.png",
+    "name": "Car Engine Plug",
+    "price": 19.99,
+    "ratings": 4.2
+  }
+]

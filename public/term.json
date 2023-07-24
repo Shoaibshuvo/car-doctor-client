@@ -1,27 +1,26 @@
 [
-    {
-      "id": 1,
-      "photo": "https://i.ibb.co/XWrQdcs/1.jpg",
-      "name": "Car Engine Plug",
-      "engine": "Engine Expert"
-    },
-    {
-      "id": 2,
-      "photo": "https://i.ibb.co/8zmtD8j/2.jpg",
-      "name": "Car Engine Plug",
-      "engine": "Engine Expert"
-    },
-    {
-      "id": 3,
-      "photo": "https://i.ibb.co/M1cTGz9/3.jpg",
-      "name": "Car Engine Plug",
-      "engine": "Engine Expert"
-    },
-    {
-      "id": 4,
-      "photo": "https://i.ibb.co/XWrQdcs/1.jpg",
-      "name": "Car Engine Plug",
-      "engine": "Engine Expert"
-    }
-    
-  ]
+  {
+    "id": 1,
+    "photo": "https://i.ibb.co/XWrQdcs/1.jpg",
+    "name": "Car Engine Plug",
+    "engine": "Engine Expert"
+  },
+  {
+    "id": 2,
+    "photo": "https://i.ibb.co/8zmtD8j/2.jpg",
+    "name": "Car Engine Plug",
+    "engine": "Engine Expert"
+  },
+  {
+    "id": 3,
+    "photo": "https://i.ibb.co/M1cTGz9/3.jpg",
+    "name": "Car Engine Plug",
+    "engine": "Engine Expert"
+  },
+  {
+    "id": 4,
+    "photo": "https://i.ibb.co/XWrQdcs/1.jpg",
+    "name": "Car Engine Plug",
+    "engine": "Engine Expert"
+  }
+]
